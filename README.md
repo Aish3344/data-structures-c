@@ -1,5 +1,9 @@
 Data Structures in C
+
 ====================
+In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+
+
 
 This project contains implementations for many different types of data
 structures commonly taught in computer science, and many of which are
